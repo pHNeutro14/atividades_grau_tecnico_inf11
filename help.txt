@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git commit -m "[COLOQUE A SUA MENSAGEM]"
+git push
+
+//Depois de alterar 
+
+git pull
